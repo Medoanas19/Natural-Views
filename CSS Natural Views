@@ -1,0 +1,71 @@
+.container {
+  float: right;
+  position: absolute;
+  top: 0px;
+  right: -50px;
+  font-size: 18px;
+  width: 1170px;
+    height: 463px;
+  bottom: 12px;
+}
+
+#best-of {
+  padding: 10px 15px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: left;
+  width: 16%;
+  background: #933737;
+  text-align: center;
+  width: 1500px;
+  height: 
+  
+}
+ 
+body {
+  background-color: #FFDEAD;
+}
+
+.other-ph1 {
+  float: left;
+}
+
+.other-ph2 {
+  float: right;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 61%;
+  height: 501px;
+}
+.navbar {
+  padding: 10px 15px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: left;
+  width: 15%;
+  background: grey;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
