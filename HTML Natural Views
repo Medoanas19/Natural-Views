@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  
+  <div id="half">
+  <title>Natural Views</title>
+</head>
+  </div>
+  <body>
+    <main>
+     
+            <h1>NATURAL VIEWS</h1>
+            <h2>Photography of Natural Landscapes</h2>
+            <P>Spectacular Natural Landscapes</P><br>
+      <div class="navbar">
+            <nav>
+              <a href=#best-of>Photos</a>
+            </nav>
+      </div>
+      
+<div class="container">
+      
+      <img src="https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=80" alt="first-photo" class="container">
+      </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     
+      <div id="best-of">
+        
+         <h2>Photos</h2>
+       
+        <div class="second-photo">
+          <h3>Africa--The Wild--</h3>
+          <p>the survival of large animals in Africa is that its vast forested areas gave them ample areas to hide from man</p>
+      <img src="https://images.unsplash.com/photo-1583588900852-e9cf5c9f0608?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1347&q=80" alt="Africa wild life">
+      </div>
+      
+          <div class="third-photo">
+            <h3>Lion</h3>
+            <p>A lion is the ultimate symbol of bravery, strength, power and fearlessness. His personality traits are of similar of a leader.</p>
+            <img src="https://images.unsplash.com/photo-1562569633-622303bafef5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80" alt="lion's picture">
+      </div>
+      
+      <div class="fourth-photo">
+        <h3>Life in the wild</h3>
+        <p>The awesome beauty of the setting sun is also symbolic of the beauty and mystery of life itself.</p>
+        <img src="https://images.unsplash.com/photo-1529824140359-0c888b4aff69?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80" alt="sunset">
+      </div>
+      <div class="fifth-photo">
+        <h3>Sunrise--a begnining of a new day, new chapter in the adventure--</h3>
+        <p>The sun will represent life, influence, and strength. He will symbolize energy, will, being clear, and self.</p>
+        <img src="https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1535&q=80" alt="sunrise sea">
+      </div>
+      <div class="Sea">
+        <h3>The infinity of the Ocean</h3>
+        <p>The Earth's largest known waterfall sits between Greenland and Iceland.</p>
+        <img src="https://images.unsplash.com/photo-1553570739-330b8db8a925?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="oceans">
+      </div>
+      
+      <div class="sixth-photo">
+        <h3>Sahara desert</h3>
+        <p>At 3.6 million square miles, the Sahara Desert is as big as China, not to mention that Dunes can reach 180 metres in height!!</p>
+        <img src="https://images.unsplash.com/photo-1601914720016-1d8e44abbc26?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1349&q=80" alt="Sahara">
+      </div>
+      
+      <div class="seventh-photo">
+        <h3>The Woods</h3>
+        <p> Forests are home to over 80 percent of land animals and plants and cover 31 percent of the world's total land area.<p/>
+        <img src="https://images.unsplash.com/photo-1503155134907-05ff21a59bb9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="The woods">
+      </div>
+      <h2> <center>Latest work</center></h2>
+    <div class="other-ph1">
+      
+      <img src="https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" alt="woods">
+      </div>
+      
+            <div class="other-ph2">
+        <img src="https://images.unsplash.com/photo-1523688471150-efdd09f0f312?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="woods">
+        </div>
+        
+      <div class="center">
+        <img src="https://images.unsplash.com/photo-1544141687-4a0477ba4ccc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="woods" class="center">
+      </div>
+      <br><br>  <b><br>
+        <footer>
+          <h4>You can join us at</h4>
+          <p>Phone:(514) 000-010101</p>
+          <p>OR by Email: NaturalViews@medoanas19.ca</p>
+          <h4>OR on Social Media</h4>
+       
+        <div class="last-part">
+          <a href="#" class="fa fa-facebook">Facebook</a>
+<a href="#" class="fa fa-twitter">Twitter</a>
+          </div>
+          </footer>
+        </main>
+        </body>
+      </html>
+       
+            
+    
+  
